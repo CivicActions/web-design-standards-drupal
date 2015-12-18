@@ -71,7 +71,7 @@
  * - $page['sidebar_second']: Items for the second sidebar.
  * - $page['footer']: Items for the footer region.
  * - $page['bottom']: Items for the bottom region.
- *
+ * 
  */
 ?>
 
