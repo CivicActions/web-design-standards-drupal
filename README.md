@@ -4,6 +4,7 @@
 This is a fork of the original repo: https://github.com/18F/web-design-standards-drupal where branches are being developed simultaneously for Drupal 7 and 8. The idea is to work in parallel with the 18F repo by mirroring the issues and keeping issue conversations in the main repo. We also have CivicaActions-specific issues that have to do with building a demo site for the drupal 7 theme. That way you can visually see our development process here: http://uswds.civicactions.net/
 
 **Current status:** very much a work in progress. . For further details, see the [waffle.io board](https://waffle.io/CivicActions/web-design-standards-drupal).
+[![Stories in Ready](https://badge.waffle.io/CivicActions/web-design-standards-drupal.png?label=ready&title=Ready)](http://waffle.io/CivicActions/web-design-standards-drupal)
 
 
 **Background:**
