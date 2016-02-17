@@ -1,8 +1,10 @@
-# U.S. Web Design Standards – Drupal theme
+# U.S. Web Design Standards – Drupal 7 theme
 
-**Current status:** very much a work in progress. Branches are being developed simultaneously for Drupal 7 and 8. For further details, see the [waffle.io board](https://waffle.io/18F/web-design-standards-drupal).
+**Introduction**
+This is a fork of the original repo: https://github.com/18F/web-design-standards-drupal where branches are being developed simultaneously for Drupal 7 and 8. The idea is to work in parallel with the 18F repo by mirroring the issues and keeping issue conversations in the main repo. We also have CivicaActions-specific issues that have to do with building a demo site for the drupal 7 theme. That way you can visually see our development process here: http://uswds.civicactions.net/
 
-[![Stories in Ready](https://badge.waffle.io/18F/web-design-standards-drupal.png?label=ready&title=Ready)](http://waffle.io/18F/web-design-standards-drupal)
+**Current status:** very much a work in progress. . For further details, see the [waffle.io board](https://waffle.io/CivicActions/web-design-standards-drupal).
+
 
 **Background:**
 As of 2012, an estimated 24 percent of U.S. government websites (including whitehouse.gov, most famously) were Drupal sites. That number has only continued to increase.
